@@ -1,8 +1,8 @@
-start_sec =60;
+start_sec =90;
 sec = start_sec;
 level = 1;
 count_squares = 4;
-start_alpha = 0.5;
+start_alpha = 0.3;
 alpha = start_alpha;
 difficulty = 0.02;
 
