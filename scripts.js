@@ -60,7 +60,6 @@ function clickHandler1(event){
 }
 
 function clickHandler2(event){
-	alert("Win");
 	change_count();
 	fill_table();
 	fill_clicks();
