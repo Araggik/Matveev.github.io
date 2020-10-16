@@ -4,7 +4,7 @@ level = 1;
 count_squares = 4;
 start_alpha = 0.5;
 alpha = start_alpha;
-difficulty = 0.05;
+difficulty = 0.02;
 
 function change_count(){
    count_squares= (1+level)*(1+level);
